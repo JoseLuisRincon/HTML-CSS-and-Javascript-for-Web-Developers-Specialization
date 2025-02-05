@@ -23,6 +23,25 @@
   line-height: 0.75;
 }
 
+#nav-list a {
+  color: black;
+  text-align: center;
+  margin-bottom: -1px;
+  font-weight: bold;
+}
+
+#nav-list a:hover {
+  background: #e7e7e7;
+}
+
+.container-fluid h1 {
+  font-weight: bold;
+}
+
+.container-fluid .menu-section-body a {
+  text-decoration: underline;
+}
+
 .row {
   width: 100%;
   margin-left: 0px;
